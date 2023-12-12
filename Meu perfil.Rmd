@@ -1,0 +1,61 @@
+---
+title: "Meu perfil"
+output:
+  flexdashboard::flex_dashboard:
+  vertical_layout: scoll
+
+---
+
+# Meu perfil
+![](meuperfil.jpg){width=6%}  
+**Nome:** Jeconias Freitas  
+**Idade:** 39  
+**SExo:**  Masculino  
+**Nacionalidade:** Brasileiro  
+**Endereço:** Tv Raimundo Uchôa de Carvalho, 35, Pajuçara  
+**email:** jecofreitas5@gmail.com  
+**Telefone:** (93)991294576  
+**Escolaridade:** Ensino Superior  
+**Curso:** Engenharia de Aquicultura
+
+Com uma abordagem verdadeiramente multivacional, minhas habilidades transcendem fronteiras e se adaptam a uma variedade de cenários. Sou um especialista em navegar por diferentes culturas e contextos, encontrando soluções inovadoras e eficazes em ambientes diversos. Minha capacidade de comunicação se destaca, permitindo-me conectar e colaborar com indivíduos de origens variadas. Além disso, minha flexibilidade e pensamento estratégico são as ferramentas essenciais que utilizo para enfrentar desafios complexos. Em resumo, minha bagagem multivacional não é apenas uma característica, mas sim um diferencial que potencializa minha capacidade de prosperar em qualquer ambiente.
+
+
+# Corrículo Lattes
+Olá, caros colegas e membros da comunidade acadêmica,
+
+Apaixonado por explorar o mundo, encontro na viagem uma fonte de inspiração. Meu espírito aventureiro se reflete não apenas nas descobertas culturais, mas também na prática esportiva, onde desafios se transformam em conquistas pessoais. Nos momentos de lazer, minha curiosidade se manifesta, absorvendo conhecimento e desvendando curiosidades. No ambiente de trabalho, aplico minha adaptabilidade e resiliência, transformando desafios em oportunidades de aprendizado constante. Assim, minha jornada é uma fusão entre a busca incessante por novos horizontes, a energia esportiva e a sede de conhecimento, criando uma sinfonia única e enriquecedora.
+
+Atenciosamente,
+
+Jeconias Freitas
+
+[Currículo Lattes](https://wwws.cnpq.br/)
+
+# Redes Sociais
+Minhas redes sociais.
+
+[Facebook](https://www.facebook.com/)  ![](https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=464){width=3%} 
+
+
+
+[Instagram](https://www.google.com/)
+![](https://img.freepik.com/vetores-gratis/instagram-icone-novo_1057-2227.jpg?size=338&ext=jpg&ga=GA1.1.1222169770.1701993600&semt=ais){width=4%}
+
+
+
+[X ex Twitter](https://twitter.com/?lang=pt)
+![](https://t.ctcdn.com.br/b2gehl3ZRAKUVpehWpv4ZR-yBvE=/i489929.jpeg){width=3%}
+
+
+
+
+
+# Sobre
+**Equipe:**  
+**Orientador:**  Cralos Zazar  
+**Munitores:** Danilo Pinto, Gabriel Rodrigues e Luan Patrick  
+**Discentes:** Jeconias Freitas  
+**Objetivos:**
+O curso tem o intuito de ensinar os discentes da universidade Federal do Oeste do Pará (UFOPA) *COMUS* monte Alegre a linguagem de programação. Eles irão aprender a ultilizar os programas de versionamento Git e Github, construir roteiros no RMarkdown, criar Dashboards Interativo e aplicativos no R Shiny.
+Esse Projeto servirá par ajudar em disciplina que envolveram a utilização do prgrama R, em trabalhos acadêmicos e no enriquecimento do conhecimento em programação muito exigido no mercado de trabalho.
